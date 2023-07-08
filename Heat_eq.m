@@ -18,8 +18,8 @@ lambda=(dt*k^2)/(dx^2);
 t1=0:dt:stopTime;
 A=zeros(length(0:dt:stopTime),mx);
 % Initial conditions
-current=10*cos((2*pi/L).*x);
-% current=6*sin((pi/L).*x);
+%current=10*cos((2*pi/L).*x);
+current=6*sin((pi/L).*x);
 fut=zeros(1,mx);
 
 A(1,:)=current;
