@@ -1,3 +1,6 @@
+% Manusreehasa Gangavamsam
+% 21GG10024
+
 clear;clc;
 %Heat Equation
 %u_t=k^2u_xx
