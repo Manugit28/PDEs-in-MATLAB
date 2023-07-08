@@ -1,4 +1,7 @@
-%23rd March 2023
+% Manusreehasa Gangavamsam
+% 21GG10024
+
+% 23rd March 2023
 %u_tt=a^2u_xx
 
 clear;clc;
